@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>521.jpg</filename>
-	<path>/Users/najibseguias/OD/object_detection_demo/data/images/521.jpg</path>
+	<filename>522.jpg</filename>
+	<path>/Users/najibseguias/OD/object_detection_demo/data/images/522.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>plastic</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>288</ymin>
-			<xmax>263</xmax>
-			<ymax>403</ymax>
+			<xmin>117</xmin>
+			<ymin>311</ymin>
+			<xmax>416</xmax>
+			<ymax>418</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>247</xmin>
-			<ymin>263</ymin>
-			<xmax>557</xmax>
-			<ymax>443</ymax>
+			<xmin>393</xmin>
+			<ymin>258</ymin>
+			<xmax>721</xmax>
+			<ymax>453</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>543</xmin>
-			<ymin>313</ymin>
-			<xmax>773</xmax>
-			<ymax>429</ymax>
+			<xmin>485</xmin>
+			<ymin>135</ymin>
+			<xmax>756</xmax>
+			<ymax>262</ymax>
 		</bndbox>
 	</object>
 </annotation>
