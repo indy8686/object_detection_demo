@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>769.jpg</filename>
+	<path>/Users/najibseguias/OD2/object_detection_demo/data/images/769.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>217</ymin>
+			<xmax>667</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

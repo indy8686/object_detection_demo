@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>520.jpg</filename>
-	<path>/Users/najibseguias/OD/object_detection_demo/data/images/520.jpg</path>
+	<filename>623.jpg</filename>
+	<path>/Users/najibseguias/OD/object_detection_demo/data/images/623.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>171</ymin>
+			<xmax>551</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>plastic</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>199</xmin>
-			<ymin>117</ymin>
-			<xmax>434</xmax>
-			<ymax>349</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cardboard</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>350</xmin>
-			<ymin>141</ymin>
-			<xmax>609</xmax>
-			<ymax>318</ymax>
+			<xmin>325</xmin>
+			<ymin>291</ymin>
+			<xmax>750</xmax>
+			<ymax>453</ymax>
 		</bndbox>
 	</object>
 </annotation>
