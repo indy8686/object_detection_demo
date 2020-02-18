@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>681.jpg</filename>
-	<path>/Users/najibseguias/OD/object_detection_demo/data/images/681.jpg</path>
+	<filename>680.jpg</filename>
+	<path>/Users/najibseguias/OD/object_detection_demo/data/images/680.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,39 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>cardboard</name>
+		<name>glass</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>291</xmin>
-			<ymin>115</ymin>
-			<xmax>662</xmax>
-			<ymax>296</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>paper</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>473</xmin>
-			<ymin>305</ymin>
-			<xmax>765</xmax>
-			<ymax>457</ymax>
+			<xmin>340</xmin>
+			<ymin>163</ymin>
+			<xmax>529</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>metal</name>
 		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>305</ymin>
+			<xmax>679</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>281</ymin>
-			<xmax>220</xmax>
-			<ymax>491</ymax>
+			<xmin>574</xmin>
+			<ymin>408</ymin>
+			<xmax>800</xmax>
+			<ymax>576</ymax>
 		</bndbox>
 	</object>
 </annotation>

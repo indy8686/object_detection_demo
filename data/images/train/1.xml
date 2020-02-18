@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>1.jpg</filename>
-	<path>/Users/najibseguias/OD2/object_detection_demo/data/images/train/1.jpg</path>
+	<filename>0.jpg</filename>
+	<path>/Users/najibseguias/OD2/object_detection_demo/data/images/train/0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>plastic</name>
+		<name>metal</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>329</ymin>
-			<xmax>626</xmax>
-			<ymax>535</ymax>
+			<xmin>149</xmin>
+			<ymin>216</ymin>
+			<xmax>457</xmax>
+			<ymax>364</ymax>
 		</bndbox>
 	</object>
 </annotation>

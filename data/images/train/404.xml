@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>404.jpg</filename>
-	<path>/Users/najibseguias/OD/object_detection_demo/data/images/404.jpg</path>
+	<filename>403.jpg</filename>
+	<path>/Users/najibseguias/OD/object_detection_demo/data/images/403.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>59</xmin>
-			<ymin>195</ymin>
-			<xmax>137</xmax>
-			<ymax>248</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>plastic</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>278</xmin>
-			<ymin>241</ymin>
-			<xmax>414</xmax>
-			<ymax>296</ymax>
+			<xmin>415</xmin>
+			<ymin>67</ymin>
+			<xmax>524</xmax>
+			<ymax>180</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>468</xmin>
-			<ymin>201</ymin>
-			<xmax>544</xmax>
-			<ymax>252</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>metal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>643</xmin>
-			<ymin>211</ymin>
-			<xmax>769</xmax>
-			<ymax>277</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>metal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>404</xmin>
-			<ymin>74</ymin>
-			<xmax>510</xmax>
-			<ymax>134</ymax>
+			<xmin>210</xmin>
+			<ymin>411</ymin>
+			<xmax>329</xmax>
+			<ymax>522</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>298</xmin>
-			<ymin>145</ymin>
-			<xmax>414</xmax>
-			<ymax>212</ymax>
+			<xmin>416</xmin>
+			<ymin>278</ymin>
+			<xmax>592</xmax>
+			<ymax>434</ymax>
 		</bndbox>
 	</object>
 </annotation>

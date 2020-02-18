@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>963.jpg</filename>
-	<path>/Users/najibseguias/OD2/object_detection_demo/data/images/963.jpg</path>
+	<filename>962.jpg</filename>
+	<path>/Users/najibseguias/OD2/object_detection_demo/data/images/962.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>metal</name>
+		<name>glass</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>232</xmin>
-			<ymin>139</ymin>
-			<xmax>455</xmax>
-			<ymax>318</ymax>
+			<xmin>290</xmin>
+			<ymin>219</ymin>
+			<xmax>483</xmax>
+			<ymax>362</ymax>
 		</bndbox>
 	</object>
 </annotation>

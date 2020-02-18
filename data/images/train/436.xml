@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>536.jpg</filename>
-	<path>/Users/najibseguias/OD/object_detection_demo/data/images/536.jpg</path>
+	<filename>535.jpg</filename>
+	<path>/Users/najibseguias/OD/object_detection_demo/data/images/535.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>plastic</name>
+		<name>metal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>288</xmin>
-			<ymin>205</ymin>
-			<xmax>530</xmax>
-			<ymax>348</ymax>
+			<xmin>253</xmin>
+			<ymin>297</ymin>
+			<xmax>524</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cardboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>98</ymin>
+			<xmax>323</xmax>
+			<ymax>173</ymax>
 		</bndbox>
 	</object>
 </annotation>

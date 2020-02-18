@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>788.jpg</filename>
-	<path>/Users/najibseguias/OD2/object_detection_demo/data/images/788.jpg</path>
+	<filename>787.jpg</filename>
+	<path>/Users/najibseguias/OD2/object_detection_demo/data/images/787.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>110</xmin>
-			<ymin>93</ymin>
-			<xmax>417</xmax>
-			<ymax>288</ymax>
+			<xmin>266</xmin>
+			<ymin>254</ymin>
+			<xmax>435</xmax>
+			<ymax>363</ymax>
 		</bndbox>
 	</object>
 </annotation>
