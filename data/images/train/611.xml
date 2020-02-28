@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
-	<filename>737.jpg</filename>
-	<path>/Users/najibseguias/OD2/object_detection_demo/data/images/737.jpg</path>
+	<folder>train</folder>
+	<filename>611.jpg</filename>
+	<path>/Users/najibseguias/object_detection_demo/data/images/train/611.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
