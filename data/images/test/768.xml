@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Final </folder>
+	<filename>768.jpg</filename>
+	<path>/Users/najibseguias/OD Working/Final /768.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>186</ymin>
+			<xmax>549</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

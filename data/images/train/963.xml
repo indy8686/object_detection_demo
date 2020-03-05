@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Final </folder>
+	<filename>963.jpg</filename>
+	<path>/Users/najibseguias/OD Working/Final /963.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>140</ymin>
+			<xmax>455</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

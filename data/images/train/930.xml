@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Final </folder>
+	<filename>930.jpg</filename>
+	<path>/Users/najibseguias/OD Working/Final /930.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>286</ymin>
+			<xmax>315</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>
